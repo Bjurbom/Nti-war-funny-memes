@@ -1,4 +1,18 @@
 ﻿l_english:
+
+HHL_fascism:0 "Hanna Empire"
+HHL_fascism_DEF:0 "the Hanna Empire"
+HHL_democratic:0 "Hanna land"
+HHL_democratic_DEF:0 "the Hanna land"
+HHL_neutrality:1 "Hanna SO"
+HHL_neutrality_DEF:1 "the Hanna SO"
+HHL_communism:0 "Hannas och allas land"
+HHL_communism_DEF:0 "the allas land"
+HHL_fascism_ADJ:0 "Hannas students"
+HHL_democratic_ADJ:0 "Hannas students"
+HHL_neutrality_ADJ:0 "Hannas students"
+HHL_communism_ADJ:0 "Hannas students"
+
 RBB_fascism:0 "Robert Empire"
 RBB_fascism_DEF:0 "the Robert Empire"
 RBB_democratic:0 "Robert land"

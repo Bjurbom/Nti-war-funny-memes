@@ -52,7 +52,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 100
 		}
 
 		fascism = {
@@ -60,7 +60,7 @@ set_politics = {
 		}
 		
 		communism = {
-			popularity = 100
+			popularity = 0
 			#banned = no #default is no
 		}
 		
@@ -69,7 +69,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -78,10 +78,10 @@ set_politics = {
 create_country_leader = {
 	
 	
-	name = "Robert"
-	picture = "Portrait_Africa_Generic_2.dds"
+	name = "Hanna"
+	picture = "Portrait_Europe_Generic_2.dds"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = liberalism
 	traits = {
 		#
 	}

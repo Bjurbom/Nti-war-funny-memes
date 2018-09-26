@@ -9,7 +9,7 @@ country_event = {
 	is_triggered_only = no
 
     trigger = {
-        tag = RBB
+       
         AND = {
             date > 1936.2.0
         }
@@ -18,10 +18,7 @@ country_event = {
 	option = { 
 		name = Okay
 		ai_chance = { factor = 100 }
-        declare_war_on = {
-            target = ENG
-            type = annex_everything
-        }
+       
 		
 
 	}

@@ -1,4 +1,4 @@
-add_namespace = nti
+﻿add_namespace = nti
 
 country_event = {
 	id = nti.1
